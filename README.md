@@ -14,6 +14,7 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 
+Environment variable 
 ```
 MATIC_TESTNET_RPC_URL=
 MATIC_TESTNET_PRIVATE_KEY=
@@ -21,3 +22,5 @@ POLYSCAN_API_KEY=
 TENDERLY_USERNAME=
 TENDERLY_PROJECTNAME=
 ```
+
+Before running any commant make sure you do a tenderly login on your shell.
