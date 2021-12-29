@@ -13,3 +13,11 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+```
+MATIC_TESTNET_RPC_URL=
+MATIC_TESTNET_PRIVATE_KEY=
+POLYSCAN_API_KEY=
+TENDERLY_USERNAME=
+TENDERLY_PROJECTNAME=
+```
